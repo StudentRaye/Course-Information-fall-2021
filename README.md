@@ -10,3 +10,9 @@ Students will be able to:
 * Evaluate via testing a computer program to meet stated requirements.
 * Employ current techniques, skills, and tools necessary for software management, development and testing.
 * Perform successfully on teams to accomplish a common goal, and communicate effectively in written and oral form.
+
+## Important reminder
+* Stay hydrated
+* Don't forget to take breaks
+* Be kind to your fellows
+* Use your blinker
